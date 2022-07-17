@@ -11,7 +11,7 @@ public class PrimeNumber {
 				temp++;
 				break;
 			}
-			
+			 
 		}
 		if (temp==0) {
 			System.out.println(p + " Prime");

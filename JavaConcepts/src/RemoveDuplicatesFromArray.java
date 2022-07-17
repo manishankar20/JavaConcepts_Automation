@@ -12,7 +12,7 @@ public class RemoveDuplicatesFromArray {
 		for(int i=0;i<length;i++) {
 			System.out.print(arr[i]+ " ");
 		}
-	}
+	} 
 	
 	public static int removeDuplicates(int arr[], int n) {
 		if(n==0||n==1) {

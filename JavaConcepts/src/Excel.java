@@ -16,7 +16,7 @@ public class Excel {
 					
 						temp = (int) (Math.pow(26, c)*v+temp);
 					
-				}c++;
+				 }c++;
 			}
 		System.out.println(temp);
 		
