@@ -1,4 +1,4 @@
-
+package BasicPrograms;
 
 public class FibonacciSeries {
 	public static void main(String[] args) {
@@ -16,5 +16,5 @@ public class FibonacciSeries {
 			b=c;
 			
 		}
-	} 
+	}
 }

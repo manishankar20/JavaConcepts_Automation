@@ -1,4 +1,4 @@
-
+package BasicPrograms;
 
 
 public class Star {
@@ -12,6 +12,6 @@ public class Star {
 			}System.out.println();
 		}
 		
-	} 
+	}
 
 }

@@ -1,4 +1,4 @@
-
+package BasicPrograms;
 
 public class PrimeNumber {
 	public static void main(String[] args) {
@@ -11,7 +11,7 @@ public class PrimeNumber {
 				temp++;
 				break;
 			}
-			 
+			
 		}
 		if (temp==0) {
 			System.out.println(p + " Prime");
